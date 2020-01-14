@@ -1,0 +1,25 @@
+authorName: datalama
+experimentName: example_pytorch_cifar10
+trialConcurrency: 7
+maxExecDuration: 16h
+maxTrialNum: 80
+#choice: local, remote, pai
+trainingServicePlatform: local
+searchSpacePath: search_space.json
+#choice: true, false
+useAnnotation: false
+logDir: /root/ml-experiment-pipeline/experiments
+tuner:
+  #choice: TPE, Random, Anneal, Evolution, BatchTuner, MetisTuner
+  #SMAC (SMAC should be installed through nnictl)
+  builtinTunerName: TPE
+  classArgs:
+    #choice: maximize, minimize
+    optimize_mode: maximize
+  gpuIndices: "0,1,2,4,5,6,7"
+trial:
+  command: python3 main.py
+  codeDir: .
+  gpuNum: 1
+#localConfig:
+#  maxTrialNumPerGpu:  2

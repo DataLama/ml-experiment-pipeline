@@ -1,0 +1,50 @@
+[01/14/2020, 06:02:39 AM] PRINT Downloading http://yann.lecun.com/exdb/mnist/train-images-idx3-ubyte.gz to /tmp/tensorflow/mnist/input_data/yPphM/MNIST/raw/train-images-idx3-ubyte.gz
+[01/14/2020, 06:02:49 AM] PRINT Extracting /tmp/tensorflow/mnist/input_data/yPphM/MNIST/raw/train-images-idx3-ubyte.gz to /tmp/tensorflow/mnist/input_data/yPphM/MNIST/raw
+[01/14/2020, 06:02:50 AM] PRINT Downloading http://yann.lecun.com/exdb/mnist/train-labels-idx1-ubyte.gz to /tmp/tensorflow/mnist/input_data/yPphM/MNIST/raw/train-labels-idx1-ubyte.gz
+[01/14/2020, 06:02:50 AM] PRINT Extracting /tmp/tensorflow/mnist/input_data/yPphM/MNIST/raw/train-labels-idx1-ubyte.gz to /tmp/tensorflow/mnist/input_data/yPphM/MNIST/raw
+[01/14/2020, 06:02:50 AM] PRINT Downloading http://yann.lecun.com/exdb/mnist/t10k-images-idx3-ubyte.gz to /tmp/tensorflow/mnist/input_data/yPphM/MNIST/raw/t10k-images-idx3-ubyte.gz
+[01/14/2020, 06:02:53 AM] PRINT Extracting /tmp/tensorflow/mnist/input_data/yPphM/MNIST/raw/t10k-images-idx3-ubyte.gz to /tmp/tensorflow/mnist/input_data/yPphM/MNIST/raw
+[01/14/2020, 06:02:53 AM] PRINT Downloading http://yann.lecun.com/exdb/mnist/t10k-labels-idx1-ubyte.gz to /tmp/tensorflow/mnist/input_data/yPphM/MNIST/raw/t10k-labels-idx1-ubyte.gz
+[01/14/2020, 06:02:53 AM] PRINT Extracting /tmp/tensorflow/mnist/input_data/yPphM/MNIST/raw/t10k-labels-idx1-ubyte.gz to /tmp/tensorflow/mnist/input_data/yPphM/MNIST/raw
+[01/14/2020, 06:02:53 AM] PRINT Processing...
+[01/14/2020, 06:02:53 AM] PRINT Done!
+[01/14/2020, 06:03:01 AM] INFO (mnist_AutoML/MainThread) Train Epoch: 1 [0/60000 (0%)]	Loss: 2.308402
+[01/14/2020, 06:03:13 AM] INFO (mnist_AutoML/MainThread) 
+Test set: Average loss: 2.2629, Accuracy: 1900/10000 (19%)
+
+[01/14/2020, 06:03:13 AM] INFO (mnist_AutoML/MainThread) Train Epoch: 2 [0/60000 (0%)]	Loss: 2.266101
+[01/14/2020, 06:03:25 AM] INFO (mnist_AutoML/MainThread) 
+Test set: Average loss: 2.2151, Accuracy: 3744/10000 (37%)
+
+[01/14/2020, 06:03:25 AM] INFO (mnist_AutoML/MainThread) Train Epoch: 3 [0/60000 (0%)]	Loss: 2.218861
+[01/14/2020, 06:03:37 AM] INFO (mnist_AutoML/MainThread) 
+Test set: Average loss: 2.1581, Accuracy: 4834/10000 (48%)
+
+[01/14/2020, 06:03:37 AM] INFO (mnist_AutoML/MainThread) Train Epoch: 4 [0/60000 (0%)]	Loss: 2.166656
+[01/14/2020, 06:03:50 AM] INFO (mnist_AutoML/MainThread) 
+Test set: Average loss: 2.0792, Accuracy: 5573/10000 (56%)
+
+[01/14/2020, 06:03:50 AM] INFO (mnist_AutoML/MainThread) Train Epoch: 5 [0/60000 (0%)]	Loss: 2.093338
+[01/14/2020, 06:04:03 AM] INFO (mnist_AutoML/MainThread) 
+Test set: Average loss: 1.9669, Accuracy: 6250/10000 (62%)
+
+[01/14/2020, 06:04:03 AM] INFO (mnist_AutoML/MainThread) Train Epoch: 6 [0/60000 (0%)]	Loss: 2.014652
+[01/14/2020, 06:04:15 AM] INFO (mnist_AutoML/MainThread) 
+Test set: Average loss: 1.8065, Accuracy: 6824/10000 (68%)
+
+[01/14/2020, 06:04:15 AM] INFO (mnist_AutoML/MainThread) Train Epoch: 7 [0/60000 (0%)]	Loss: 1.869955
+[01/14/2020, 06:04:28 AM] INFO (mnist_AutoML/MainThread) 
+Test set: Average loss: 1.5906, Accuracy: 7269/10000 (73%)
+
+[01/14/2020, 06:04:28 AM] INFO (mnist_AutoML/MainThread) Train Epoch: 8 [0/60000 (0%)]	Loss: 1.606688
+[01/14/2020, 06:04:40 AM] INFO (mnist_AutoML/MainThread) 
+Test set: Average loss: 1.3398, Accuracy: 7634/10000 (76%)
+
+[01/14/2020, 06:04:40 AM] INFO (mnist_AutoML/MainThread) Train Epoch: 9 [0/60000 (0%)]	Loss: 1.212712
+[01/14/2020, 06:04:53 AM] INFO (mnist_AutoML/MainThread) 
+Test set: Average loss: 1.0966, Accuracy: 7901/10000 (79%)
+
+[01/14/2020, 06:04:53 AM] INFO (mnist_AutoML/MainThread) Train Epoch: 10 [0/60000 (0%)]	Loss: 1.230487
+[01/14/2020, 06:05:04 AM] INFO (mnist_AutoML/MainThread) 
+Test set: Average loss: 0.8982, Accuracy: 8140/10000 (81%)
+

@@ -1,0 +1,2 @@
+- experiments의 결과들을 쉽게 viewing할 수 있는 report를 구상하자.
+- 실험명을 어떻게 유의미하게 생성할 수 있을까?

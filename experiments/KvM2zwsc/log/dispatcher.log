@@ -1,0 +1,31 @@
+[01/14/2020, 05:55:28 AM] INFO (root/MainThread) Generating grammar tables from /usr/lib/python3.6/lib2to3/Grammar.txt
+[01/14/2020, 05:55:28 AM] INFO (root/MainThread) Generating grammar tables from /usr/lib/python3.6/lib2to3/PatternGrammar.txt
+[01/14/2020, 05:55:28 AM] INFO (hyperopt.utils/MainThread) Failed to load dill, try installing dill via "pip install dill" for enhanced pickling support.
+[01/14/2020, 05:55:28 AM] INFO (hyperopt.fmin/MainThread) Failed to load dill, try installing dill via "pip install dill" for enhanced pickling support.
+[01/14/2020, 05:55:28 AM] INFO (nni.msg_dispatcher_base/MainThread) Start dispatcher
+[01/14/2020, 05:55:28 AM] INFO (hyperopt.tpe/Thread-1) tpe_transform took 0.003622 seconds
+[01/14/2020, 05:55:28 AM] INFO (hyperopt.tpe/Thread-1) TPE using 0 trials
+[01/14/2020, 05:55:28 AM] INFO (hyperopt.tpe/Thread-1) tpe_transform took 0.003670 seconds
+[01/14/2020, 05:55:28 AM] INFO (hyperopt.tpe/Thread-1) TPE using 0 trials
+[01/14/2020, 05:55:28 AM] INFO (hyperopt.tpe/Thread-1) tpe_transform took 0.003652 seconds
+[01/14/2020, 05:55:28 AM] INFO (hyperopt.tpe/Thread-1) TPE using 0 trials
+[01/14/2020, 05:57:58 AM] INFO (hyperopt.tpe/Thread-1) tpe_transform took 0.007252 seconds
+[01/14/2020, 05:57:58 AM] INFO (hyperopt.tpe/Thread-1) TPE using 1/1 trials with best loss -99.270000
+[01/14/2020, 05:59:18 AM] INFO (hyperopt.tpe/Thread-1) tpe_transform took 0.005562 seconds
+[01/14/2020, 05:59:18 AM] INFO (hyperopt.tpe/Thread-1) TPE using 2/2 trials with best loss -99.270000
+[01/14/2020, 05:59:23 AM] INFO (hyperopt.tpe/Thread-1) tpe_transform took 0.007946 seconds
+[01/14/2020, 05:59:23 AM] INFO (hyperopt.tpe/Thread-1) TPE using 3/3 trials with best loss -99.270000
+[01/14/2020, 06:00:39 AM] INFO (hyperopt.tpe/Thread-1) tpe_transform took 0.007154 seconds
+[01/14/2020, 06:00:39 AM] INFO (hyperopt.tpe/Thread-1) TPE using 4/4 trials with best loss -99.270000
+[01/14/2020, 06:01:59 AM] INFO (hyperopt.tpe/Thread-1) tpe_transform took 0.007846 seconds
+[01/14/2020, 06:01:59 AM] INFO (hyperopt.tpe/Thread-1) TPE using 5/5 trials with best loss -99.270000
+[01/14/2020, 06:02:29 AM] INFO (hyperopt.tpe/Thread-1) tpe_transform took 0.003548 seconds
+[01/14/2020, 06:02:29 AM] INFO (hyperopt.tpe/Thread-1) TPE using 6/6 trials with best loss -99.270000
+[01/14/2020, 06:03:55 AM] INFO (hyperopt.tpe/Thread-1) tpe_transform took 0.008360 seconds
+[01/14/2020, 06:03:55 AM] INFO (hyperopt.tpe/Thread-1) TPE using 7/7 trials with best loss -99.270000
+[01/14/2020, 06:04:30 AM] INFO (hyperopt.tpe/Thread-1) tpe_transform took 0.007990 seconds
+[01/14/2020, 06:04:30 AM] INFO (hyperopt.tpe/Thread-1) TPE using 8/8 trials with best loss -99.270000
+[01/14/2020, 06:05:10 AM] INFO (hyperopt.tpe/Thread-1) tpe_transform took 0.007826 seconds
+[01/14/2020, 06:05:10 AM] INFO (hyperopt.tpe/Thread-1) TPE using 9/9 trials with best loss -99.270000
+[01/14/2020, 06:05:28 AM] INFO (nni.msg_dispatcher_base/MainThread) Dispatcher exiting...
+[01/14/2020, 06:05:31 AM] INFO (nni.msg_dispatcher_base/MainThread) Terminated by NNI manager
